@@ -1,9 +1,5 @@
-### Chang Ju Rhee
+![profile](profile-image.svg)
 
-Software Engineer
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=changjurhee)](https://solved.ac/changjurhee)
 
----
-
-**Links**
-
-- GitHub: [@changjurhee](https://github.com/changjurhee)
+- Website: [changjurhee.github.io](https://changjurhee.github.io/)
